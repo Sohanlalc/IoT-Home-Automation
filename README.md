@@ -1,6 +1,7 @@
 # IoT-Home Automation
 
-This project is all about connecting home appliances to our phone through internet
+This project is all about controlling basic home appliances with your phone.
+![](Android Application/assets/IoTPic.jpg)
 
 ## Table of Content
 1. Abstract
