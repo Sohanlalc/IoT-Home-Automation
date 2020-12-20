@@ -26,9 +26,9 @@ Follow the Following steps to properly intsall the code into the MicroController
   * FirebaseArduino
   * DHT
 2. Creat your Firebase Account
-3. Open the code file "HOME_AUTOMATION"
+3. Open the code file "HOME_AUTOMATION.ino"
 4. Make the changes according to the commments mentioned in the code and fill the details.
 5. make the connections.
 6. Install the Android Applictaion.
 
-That's it your IoT based Home Automation System is ready and you can operate it from anywhere in the world provided your phone and the microcontroller are connected to internet.
+That's it your *IoT based Home Automation System* is ready and you can operate it from anywhere in the world provided your phone and the microcontroller are connected to internet.
