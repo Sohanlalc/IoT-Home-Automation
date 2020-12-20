@@ -26,7 +26,7 @@ Follow the Following steps to properly intsall the code into the MicroController
   * ESP8266WiFi
   * FirebaseArduino
   * DHT
-2. Creat your Firebase Account
+2. Creat your Google Firebase Account
 3. Open the code file "HOME_AUTOMATION.ino"
 4. Make the changes according to the commments mentioned in the code and fill the details.
 5. make the connections.
