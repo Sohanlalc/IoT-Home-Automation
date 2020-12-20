@@ -19,3 +19,6 @@ The components used in this project are:
 * DC Motor (as Fan)
 * AC Bulb
 
+## Guide to install Code
+Follow the Following steps to properly intsall the code into the MicroController
+1. 
